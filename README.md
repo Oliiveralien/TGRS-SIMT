@@ -12,7 +12,7 @@ Moreover, further exploration shows the potential of the proposed method to util
 ## Some Results
 Mask data: [DATA](https://drive.google.com/file/d/1p0Q1DO7J8Igj4-DZRonQhQOL2LsPGrD5/view?usp=sharing)
 
-![All text](https://github.com/Oliiveralien/Inpainting-on-RSI/blob/master/pics/newSLC.png)
+<!-- ![All text](https://github.com/Oliiveralien/Inpainting-on-RSI/blob/master/pics/newSLC.png) -->
 
 
 ## Training & Test
